@@ -177,7 +177,8 @@ Through this project, I learned:
 # 👩‍💻 Author
 
 **Kalpana Devi A**
-**INTERN ID : CITS2602**
+
+INTERN ID : CITS2602
 
 Electronics and Communication Engineering (ECE)
 
